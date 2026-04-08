@@ -1,0 +1,14 @@
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/bin/Debug/net10.0/Dashboard_Financiero
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/bin/Debug/net10.0/Dashboard_Financiero.deps.json
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/bin/Debug/net10.0/Dashboard_Financiero.runtimeconfig.json
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/bin/Debug/net10.0/Dashboard_Financiero.dll
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/bin/Debug/net10.0/Dashboard_Financiero.pdb
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/obj/Debug/net10.0/Dashboard_Financiero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/obj/Debug/net10.0/Dashboard_Financiero.AssemblyInfoInputs.cache
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/obj/Debug/net10.0/Dashboard_Financiero.AssemblyInfo.cs
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/obj/Debug/net10.0/Dashboard_Financiero.csproj.CoreCompileInputs.cache
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/obj/Debug/net10.0/Dashboard_Financiero.dll
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/obj/Debug/net10.0/refint/Dashboard_Financiero.dll
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/obj/Debug/net10.0/Dashboard_Financiero.pdb
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/obj/Debug/net10.0/Dashboard_Financiero.genruntimeconfig.cache
+/Users/saramendoza/Desktop/GitHub/Tareas Programación II/Proyecto Final C#/Proyecto Final/Dashboard_Financiero/obj/Debug/net10.0/ref/Dashboard_Financiero.dll
