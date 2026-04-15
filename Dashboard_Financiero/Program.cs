@@ -1,4 +1,4 @@
-﻿//Proyecto final - Programación II
+﻿//Proyecto final - Programación I
 // POO en C#
 // Dashboard financiero, orientado a empresas costeras (hoteles y/o restaurantes) para analizar decisiones en cuanto a la gestión de sargaso en las playas.
 
